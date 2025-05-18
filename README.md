@@ -1,2 +1,2 @@
 # remote-sensing-local-narratives
-Code for analysing West African forest change via remote sensing &amp; community narratives
+R + Python workflows for analysing and visualising West African forest-change convergence.
